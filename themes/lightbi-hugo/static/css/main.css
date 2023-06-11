@@ -1,7 +1,7 @@
 /* --- General --- */
 
 body {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: #344854;
   position: relative;
   background: #FFFFFF;
@@ -16,14 +16,14 @@ body {
 
 @media only screen and (max-width: 767px) {
 .container[role=main] {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 10;
+    margin-right: 10;
 }
 }
 
 p {
   line-height: 1.5;
-  margin: 6px 0; 
+  margin: 10px 0; 
 }
 p + p {
     margin: 24px 0 6px 0;
@@ -109,7 +109,8 @@ img::-moz-selection {
 img {
   display: block;
   margin: auto;
-  max-width: 100%;
+  width: 100%;
+  height: auto;
 }
 
 img[alt$="b"] 
@@ -845,11 +846,16 @@ h4.see-also {
   font-weight: 500;
   padding:5% 0 5% 0;
 }
-
+/* taille des images */
+.img-100{
+  max-width: 100%;
+}
 .img-80{
   max-width: 80%;
 }
-
+.img-60{
+  max-width: 60%;
+}
 .img-40{
   max-width: 40%;
 }
@@ -984,4 +990,11 @@ h4.see-also {
 
 .flex-row{
   flex-direction: row;
+}
+/* Grille d'image */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
 }

@@ -34,7 +34,7 @@ pagination = "10"
 
 [Author]
   name = "Romain POULIN"
-  website = "https://www.romainpoulin.fr"
+  #website = "https://www.romainpoulin.fr"
   email = "poulin.romain@pm.me"
   #facebook = "username"
   #instagram = "username"

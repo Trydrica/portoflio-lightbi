@@ -8,8 +8,6 @@ image: "/img/posts/series/couvrefeu/main.jpeg"
 #![image alt b](/series/seconde/01.jpg)
 #Fichier dans static/
 ---
-
-
 ![image alt b](/series/couvrefeu/couvrefeu-01.jpg)
 
 ![image alt b](/series/couvrefeu/couvrefeu-02.jpg)

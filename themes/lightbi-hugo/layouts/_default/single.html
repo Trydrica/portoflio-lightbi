@@ -1,8 +1,9 @@
 {{ define "main" }}
 <div class="container" role="main">
   <div class="row">
-    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 ">
-<!--
+    <!-- 
+    <div class="col-lg-10 offset-lg-1 col-md-5 offset-md-1 ">
+
       <div class="card-image card-image-blog p-0">
         {{ if .Params.image }}
         <img src="{{ .Params.image }}" alt="{{ .Title }}" class="card-img-bottom img-fluid">
@@ -14,13 +15,18 @@
         {{ end }}
       </div>
     </div>
--->
- 
+    -->
+ <!--
     <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 pt-4">
-      <article role="main" class="blog-post">
+      <article role="main" class="grid-container">
         {{ .Content }}
       </article>
     </div>
+    -->
+    <div align="center" class="grid-container">
+        {{ .Content }}
+    </div>
+   
   </div>
 <!--
   <div class="row">
