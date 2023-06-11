@@ -113,11 +113,6 @@ img {
   height: auto;
 }
 
-img[alt$="b"] 
-  {
-  border: solid 4px; border-color: #FFFFFF;
-  }
-
 .img-title {
   width: 100%;
 }
@@ -991,10 +986,18 @@ h4.see-also {
 .flex-row{
   flex-direction: row;
 }
-/* Grille d'image */
+
+img[alt$="b"] 
+{
+  border: solid 4px; 
+  border-color: #FFFFFF;
+}
+
+
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-  grid-auto-rows: minmax(100px, auto);
+  grid-template-columns: repeat(3,300px); /* 3 colonnes de 400px */
+  gap: 20px; /* gap signifie gouttière */
+  rid-auto-flow: row dense
 }
+ 
