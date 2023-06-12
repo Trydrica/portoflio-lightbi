@@ -52,20 +52,6 @@
 
               {{ end }}
               {{ end }}
-
-              {{ if $subtitle }}
-              {{ if eq .Type "page" }}
-              <span class="{{ .Type }}-subheading">{{ $subtitle }}</span>
-              {{ else }}
-              <h6 class="{{ .Type }}-subheading display-6">{{ $subtitle }}</h6>
-              {{ end }}
-              {{ end }}
-
-              {{if .Page.IsPage}}
-              {{ if eq .Type "post" }}
-              {{ partial "post_meta.html" .}}
-              {{ end }}
-              {{ end }}
             </div>
           </div>
         </div>

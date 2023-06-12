@@ -14,19 +14,9 @@
                     {{ partial "post_meta.html" . }}
                 </p>
                 {{ print }}
-                <div class="post-entry">
+                
 
-                    {{ if .Description }}
-                    {{ .Description }}
-
-                    {{ else }}
-                   
-                    {{ end }}
-                </div>
-
-                <div class="read-more-section">
-                    <h6>Read more</h6>
-                </div>
+                
             </div>
 
             {{ if .Params.image }}

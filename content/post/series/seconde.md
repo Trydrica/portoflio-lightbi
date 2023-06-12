@@ -9,18 +9,18 @@ image: "/img/posts/series/seconde/main.jpeg"
 #Fichier dans static/
 ---
 
-![image alt b](/series/seconde/01.jpg)
+![image](/series/seconde/print-1.jpg)
 
-![image alt b](/series/seconde/02.jpg)
+![image](/series/seconde/print-2.jpg)
 
-![image alt b](/series/seconde/03.jpg)
+![image](/series/seconde/print-3.jpg)
 
-![image alt b](/series/seconde/04.jpg)
+![image](/series/seconde/print-4.jpg)
 
-![image alt b](/series/seconde/05.jpg)
+![image](/series/seconde/print-5.jpg)
 
-![image alt b](/series/seconde/06.jpg)
+![image](/series/seconde/print-6.jpg)
 
-![image alt b](/series/seconde/07.jpg)
+![image](/series/seconde/print-7.jpg)
 
-![image alt b](/series/seconde/08.jpg)
+![image](/series/seconde/print-8.jpg)

@@ -8,32 +8,32 @@ image: "/img/posts/series/couvrefeu/main.jpeg"
 #![image alt b](/series/seconde/01.jpg)
 #Fichier dans static/
 ---
-![image alt b](/series/couvrefeu/couvrefeu-01.jpg)
+![image](/series/couvrefeu/couvre-feu-01.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-02.jpg)
+![image](/series/couvrefeu/couvre-feu-02.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-03.jpg)
+![image](/series/couvrefeu/couvre-feu-03.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-04.jpg)
+![image](/series/couvrefeu/couvre-feu-04.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-05.jpg)
+![image](/series/couvrefeu/couvre-feu-05.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-06.jpg)
+![image](/series/couvrefeu/couvre-feu-06.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-07.jpg)
+![image](/series/couvrefeu/couvre-feu-07.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-08.jpg)
+![image](/series/couvrefeu/couvre-feu-08.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-09.jpg)
+![image](/series/couvrefeu/couvre-feu-09.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-10.jpg)
+![image](/series/couvrefeu/couvre-feu-10.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-11.jpg)
+![image](/series/couvrefeu/couvre-feu-11.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-12.jpg)
+![image](/series/couvrefeu/couvre-feu-12.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-13.jpg)
+![image](/series/couvrefeu/couvre-feu-13.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-14.jpg)
+![image](/series/couvrefeu/couvre-feu-14.jpg)
 
-![image alt b](/series/couvrefeu/couvrefeu-15.jpg)
+![image](/series/couvrefeu/couvre-feu-15.jpg)
