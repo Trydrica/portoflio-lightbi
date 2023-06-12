@@ -991,15 +991,13 @@ img[alt$="b"]
 {
   border: solid 4px; 
   border-color: #FFFFFF;
-  width: 100%;
-  height: auto;
 }
-
 
 .grid-container {
   display: grid;
+  gap: 24px;
+  justify-content: center;	
   grid-template-columns: repeat(auto-fill, 300px);
-  gap: 10px; /* gap signifie gouttière */
-  grid-auto-flow: row dense;  
+  grid-auto-flow: row dense;
 }
  

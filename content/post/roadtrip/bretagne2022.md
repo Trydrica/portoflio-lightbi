@@ -9,8 +9,6 @@ Description  : "Roadtrip en Bretagne en juillet 2022"
 ---
 ![image alt b](/roadtrips/bretagne/bretagne-01.jpg)
 
-![image alt b](/roadtrips/bretagne/bretagne-02.jpg)
-
 ![image alt b](/roadtrips/bretagne/bretagne-03.jpg)
 
 ![image alt b](/roadtrips/bretagne/bretagne-04.jpg)
@@ -19,8 +17,6 @@ Description  : "Roadtrip en Bretagne en juillet 2022"
 
 ![image alt b](/roadtrips/bretagne/bretagne-06.jpg)
 
-![image alt b](/roadtrips/bretagne/bretagne-07.jpg)
-
 ![image alt b](/roadtrips/bretagne/bretagne-08.jpg)
 
 ![image alt b](/roadtrips/bretagne/bretagne-09.jpg)
@@ -28,8 +24,6 @@ Description  : "Roadtrip en Bretagne en juillet 2022"
 ![image alt b](/roadtrips/bretagne/bretagne-10.jpg)
 
 ![image alt b](/roadtrips/bretagne/bretagne-11.jpg)
-
-![image alt b](/roadtrips/bretagne/bretagne-12.jpg)
 
 ![image alt b](/roadtrips/bretagne/bretagne-13.jpg)
 
@@ -42,3 +36,9 @@ Description  : "Roadtrip en Bretagne en juillet 2022"
 ![image alt b](/roadtrips/bretagne/bretagne-17.jpg)
 
 ![image alt b](/roadtrips/bretagne/bretagne-18.jpg)
+
+![image alt b](/roadtrips/bretagne/bretagne-02.jpg)
+
+![image alt b](/roadtrips/bretagne/bretagne-07.jpg)
+
+![image alt b](/roadtrips/bretagne/bretagne-12.jpg)
