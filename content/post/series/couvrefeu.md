@@ -8,7 +8,7 @@ image: "img/posts/series/couvrefeu/main.jpeg"
 #![image alt b](/series/seconde/01.jpg)
 #Fichier dans static/
 ---
-![image alt b](series/couvrefeu/couvre-feu-02.jpg)
+![image alt b](/series/couvrefeu/couvre-feu-02.jpg)
 
 ![image alt b](series/couvrefeu/couvre-feu-03.jpg)
 

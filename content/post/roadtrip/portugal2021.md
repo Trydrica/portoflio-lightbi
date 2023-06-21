@@ -8,7 +8,7 @@ draft: true
 #Fichier dans static/
 ---
 
-![image alt b](roadtrips/belgique/belgique-02.jpg)
+![image alt b](/roadtrips/belgique/belgique-02.jpg)
 
 ![image alt b](roadtrips/belgique/belgique-03.jpg)
 

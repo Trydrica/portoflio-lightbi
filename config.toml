@@ -9,6 +9,7 @@ pygmentsStyle = "trac"
 enableRobotsTXT = true
 enableGitInfo = false
 Paginate = 6
+canonifyURLs = true
 
 [Params] 
 mainSections = ["post","posts"]
